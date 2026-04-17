@@ -4,5 +4,11 @@ Simulação simples de um sistema de autenticação onde o usuário não digita 
 
 Projeto simples para praticar lógica de programação, validação de entrada e manipulação de arrays em C.
 
-## Como rodar
+---
+
+EXEMPLO
+
+![exemplo](imagemExemplo.png)
+
+# Como rodar
 Recomendo compilar no Dev-C++, VSCode (caso ja tenha configurado), ou pelo site [Online C Compiler](https://www.onlinegdb.com/online_c_compiler)
